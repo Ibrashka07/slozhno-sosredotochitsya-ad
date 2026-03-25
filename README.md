@@ -16,9 +16,9 @@ https://github.com/Ibrashka07/slozhno-sosredotochitsya-ad
 ### Скриншоты
 
 ![](./screnshots/screenshot_dark_theme_mobile.jpg)
-![](./screenshots/screenshot_light_theme_mobile.jpg)
-![](./screenshots/screenshot_dark_theme_desktop.jpg)
-![](./screenshots/screenshot_light_theme_desktop.jpg)
+![](./screnshots/screenshot_light_theme_mobile.jpg)
+![](./screnshots/screenshot_dark_theme_desktop.jpg)
+![](./screnshots/screenshot_light_theme_desktop.jpg)
 
 ### Описание
 
